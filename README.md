@@ -41,7 +41,7 @@ class Satish:
         self.curiosity   = float('inf')
 
     def say_hi(self):
-        print("Thanks for stopping by — let's build something with data!")
+        print("Thanks for stopping by let's build something with data!")
 
 me = Satish()
 me.say_hi()
@@ -55,7 +55,7 @@ me.say_hi()
 
 🎯 I'm targeting **Business Analyst**, **Data Analyst**, and **Strategy & Operations Analyst** roles at SaaS, product-led growth, and tech companies.
 📊 My happy place: a clean dataset, a good business question, and a dashboard that makes a stakeholder say *"oh, that's what we should do."*
-🔥 Currently building portfolio projects that go beyond Kaggle notebooks — real, deployed, decision-grade work.
+🔥 Currently building portfolio projects that go beyond Kaggle notebooks real, deployed, decision-grade work.
 
 ---
 
@@ -220,47 +220,6 @@ me.say_hi()
 
 ---
 
-## 🏆 What I'm Working On
-
-<p align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%94%A5%20Currently%20Building-Portfolio%20Projects-FF6F00?style=for-the-badge" />
-</p>
-
-- 🚀 **Lumen** — A PLG/SaaS Free-to-Paid Conversion Funnel Analysis project
-- 🎯 **TechVantage** — Executive Decision Intelligence Platform (Python · Streamlit · Plotly)
-- 🛠️ **Predictive Component Failure System** — Using the NASA CMAPSS dataset
-- 📊 **Bike Sales Dashboard** — End-to-end Excel project (1,000 records → executive dashboard)
-- 🌐 **Personal Portfolio Website** — Interactive in-browser editor with color theme switcher
-
-<p align="left">
-  <img src="https://img.shields.io/badge/%F0%9F%93%9A%20Currently%20Learning-Advanced%20SQL%20%2B%20dbt-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%F0%9F%92%AC%20Ask%20Me%20About-SaaS%20Metrics%20%26%20Dashboards-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/%E2%9A%A1%20Fun%20Fact-I%20bring%20receipts%20to%20every%20insight-yellow?style=for-the-badge" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-handle&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-handle&theme=onedark&no-frame=true&row=1&column=7" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-handle&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-
----
-
 ## 📜 Certifications & Learning
 
 <p align="left">
@@ -284,15 +243,13 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Telugu-Native-1F77B4?style=for-the-badge" />
 </p>
 
-*(Update if needed)*
-
 ---
 
 ## 💼 Let's Connect!
 
 <p align="center">
   <em>I'm actively looking for full-time Data Analyst, Business Analyst, and Strategy & Operations Analyst roles starting May 2026.<br/>
-  If you're hiring — or just want to talk shop about dashboards, SaaS metrics, or coffee — let's chat!</em>
+  If you're hiring or just want to talk shop about dashboards, SaaS metrics, or coffee — let's chat!</em>
 </p>
 
 <p align="center">
