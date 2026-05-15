@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%88;Business+Analyst+%F0%9F%92%BC;SQL+%E2%80%A2+Python+%E2%80%A2+Tableau+%E2%80%A2+Power+BI;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+New+Grad+Roles+%F0%9F%8E%93" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E8B57&center=true&vCenter=true&width=700&lines=Data+Analyst+%F0%9F%93%88;Business+Analyst+%F0%9F%92%BC;SQL+%E2%80%A2+Python+%E2%80%A2+MS+Office+%E2%80%A2+Power+BI;Turning+Data+into+Decisions+%F0%9F%9A%80;Open+to+New+Grad+Roles+%F0%9F%8E%93" />
 </p>
 
 ---
