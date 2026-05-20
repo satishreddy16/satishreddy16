@@ -231,8 +231,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/Python%20for%20Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-*Update this list with the actual credentials you've earned — placeholders are here as inspiration.*
-
 ---
 
 ## 🌍 Languages I Speak
