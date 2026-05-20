@@ -53,7 +53,7 @@ me.say_hi()
   <img src="https://img.shields.io/badge/B.Com-Business%20Analytics-1F77B4?style=for-the-badge" />
 </p>
 
-🎯 I'm targeting **Business Analyst**, **Data Analyst**, and **Strategy & Operations Analyst** roles at SaaS, product-led growth, and tech companies.
+🎯 I'm targeting **Business Analyst**, **Data Analyst** roles at SaaS, product-led growth, and tech companies.
 📊 My happy place: a clean dataset, a good business question, and a dashboard that makes a stakeholder say *"oh, that's what we should do."*
 🔥 Currently building portfolio projects that go beyond Kaggle notebooks real, deployed, decision-grade work.
 
