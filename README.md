@@ -53,11 +53,10 @@ me.say_hi()
   <img src="https://img.shields.io/badge/B.Com-Business%20Analytics-1F77B4?style=for-the-badge" />
 </p>
 
-🎯 I'm targeting **Business Analyst**, **Data Analyst** roles at SaaS, product-led growth, and tech companies.
-📊 My happy place: a clean dataset, a good business question, and a dashboard that makes a stakeholder say *"oh, that's what we should do."*
-🔥 Currently building portfolio projects that go beyond Kaggle notebooks real, deployed, decision-grade work.
-
----
+I am focusing on getting a Business Analyst and Data Analyst job at a SaaS or product-led growth or Technology company.
+My ideal scenario is where I have a clean dataset, a great business question, and a dashboard that shows the Stakeholder this is what we need to do
+I am currently developing a portfolio project that goes beyond Kaggle Notebook RealWorld and Decision Grade Work
+**---**
 
 ## 🛠️ My Toolbox
 
